@@ -1,0 +1,3 @@
+Hello all,
+Today I am starting with the course.I will be doing this on regular scheduled basis for better and constant learning  
+Today I am doing some basics like what is react,basics of react app ,etc
